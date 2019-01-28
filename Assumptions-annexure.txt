@@ -1,0 +1,27 @@
+The data has been synthetically created with custom random values.
+The data contains 13 features with 12 independent variables and 1 dependent variable('Insurance Type').
+A predictive model is built using Customer's lifestyle attributes and other financial features.]
+
+The assumed features are as follows:-
+
+1.No of Vehicle --Number of vehicles owned by the person
+2.Vacations/Year --Number of vacations taken as a part of persons lifestyle in a year
+3.Vacation Type -- whether the vacation was domestic or international
+4.Brand concious - It tells us whether the person is brand conscious or not
+5.Hobbies - hobbies of the person
+6.Existing Insurance Coverage - It explains the existing benefits of Insurance coverage that the person has.
+7.Medical History - Any medical history 
+8.Living Region - The region he lives(Assumption of Delhi region is taken)
+9.bmi - Body Mass index
+10.Age - Age
+11.Gender - Male/Female
+12.Salary - salary of the person
+13.Insurance Type - Insurance policy recommended
+
+
+Following code names are used for column 'Existing insurance Coverage'
+
+ECAH-EarlyCancer,Accident,Hospital cashless
+PMCAH-physical disability,Majorcancer,Accident,Hospital cashless
+CACAH-Cardiac,ALLCancer,Accident,Hospital cashless
+BCACAH-Brain,Cardiac,ALLcancer,Accident,Hospital cashless
